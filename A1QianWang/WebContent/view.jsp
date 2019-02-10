@@ -10,6 +10,7 @@
 		body{
 			background-color:#F8F8FF;
 		}
+		
 	</style>
 </head>
 <body>
