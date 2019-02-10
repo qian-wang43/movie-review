@@ -6,7 +6,6 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Movies</title>
-
 	<style type="text/css">
 		body{
 			background-color:#F8F8FF;
