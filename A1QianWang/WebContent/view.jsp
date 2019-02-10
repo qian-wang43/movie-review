@@ -4,8 +4,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Movies</title>
+	<meta charset="UTF-8">
+	<title>Movies</title>
+
+	<style type="text/css">
+		body{
+			background-color:#F8F8FF;
+		
+		}
+	</style>
 </head>
 <body>
 	<h1>Movies</h1>
