@@ -16,7 +16,6 @@ import ca.sheridancollege.beans.Review;
 
 
 
-
 public class DAO {
 
 	SessionFactory sessionFactory = new Configuration().configure("ca/sheridancollege/config/hibernate.cfg.xml")
